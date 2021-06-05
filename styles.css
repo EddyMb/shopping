@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar
+{
+    background-color: rgb(1, 1, 44);
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.navbar-brand{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+
+.nav-link{
+    color: white;
+    font-size: 19px;
+}
+header{
+    height: 500px;
+    background-image: url('img/vcam_4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.title{
+    padding-top: 150px;
+}
+
+h1{
+    color: #fff;
+    font-size: 40px;
+}
+
+h2{
+    margin-top: 40px;
+}
